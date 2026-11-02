@@ -8,6 +8,12 @@ The objective of this project is to develop a machine learning model that estima
 
 The project covers the complete machine learning workflow, from data preprocessing and model training to evaluation, model serialization, and web application deployment.
 
+## 🖥️ Application Preview
+
+Here is a screenshot of the deployed application:
+
+![Used Car Price Prediction Demo](car-prediction-demo.png)
+
 ## 🎯 Objectives
 
 - Explore and preprocess used car data.
